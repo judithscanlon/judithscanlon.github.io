@@ -6,7 +6,7 @@ Previously, I helped out family, friends and organizations with their websites i
 * The [Junior League of Pittsburgh](https://www.jlpgh.org/) 
 * Pittsburgh Knit and Bead (sadly, a shop no longer open for business)  
 * [Cruze Architects](http://www.cruzearchitects.com/)
-* the [Explorers Club of Pittsburgh](pittecp.org).  
+* the [Explorers Club of Pittsburgh](http://pittecp.org).  
 
 I even rescued the [Pittsburgh Consortium of Higher Education website](https://pche-pa.org/) from pirates.
 
