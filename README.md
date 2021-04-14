@@ -16,3 +16,15 @@ In the meantime, I'm grateful to [Upstream Coding](https://www.upstreamcoding.co
 1. the fun I'm having learning new skills 
 2. the fantastic hands-on mentoring
 3. keeping me off the streets
+
+
+Note t0 self: Portfolio Fonts I'm considering...
+Cabin
+PT Sans
+Ubuntu
+Noto Sans
+Merriwether Sans
+Acme
+Crede Round
+Lemonada
+Martel
