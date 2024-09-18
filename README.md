@@ -18,13 +18,4 @@ In the meantime, I'm grateful to [Upstream Coding](https://www.upstreamcoding.co
 3. keeping me off the streets
 
 
-Note to self: Portfolio Fonts I'm considering...
-Cabin
-PT Sans
-Ubuntu
-Noto Sans
-Merriwether Sans
-Acme
-Crede Round
-Lemonada
-Martel
+
